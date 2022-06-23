@@ -18,3 +18,16 @@ https://gist.github.com/stefanthoss/364b2a99521d5bb76d51
 https://quantpedia.com/strategies/alpha-cloning-following-13f-fillings/
 https://marcosammon.com/2016/08/08/13f.html
 https://whalewisdom.com/whitepapers/backtesting
+
+
+Use just SP500 Stocks, use only managers with fewer than 100 holdings, and more than 5 holdings
+XGBoost, which hedge funds would outperform the most
+Pick a portfolio 5-15 stocks most held by those hedge fund managers
+- can break up by industry
+
+Construct alpha factors on the hedge funds
+
+Can also do reinforcement learning
+- agent is trying to pick 13Fs that are the most outperforming
+
+Create a deep learning/reinforcement learning system to predict economic upturns/downturns
