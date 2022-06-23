@@ -31,3 +31,4 @@ Can also do reinforcement learning
 - agent is trying to pick 13Fs that are the most outperforming
 
 Create a deep learning/reinforcement learning system to predict economic upturns/downturns
+- South America: Brazil, Argentina, Chile, Columbia
