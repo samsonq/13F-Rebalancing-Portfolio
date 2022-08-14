@@ -1,0 +1,15 @@
+1.value amount 
+2.fraction of individual security in the total value hold by the fund
+3.change value amount
+4.change ratio
+5.average return of funds: 1define the good fund and verify whether it's a good fund by testing in the test set
+6.the security hold by how many fund compared to the num of fund at that time
+7.quantity hold/ total floatShares of EQUITY
+8.value/ total assets of ETF
+9.fraction of individual security at each time  
+10.fund return better than sp500 as good fund
+11. the holding value ratio of security hold by good fund in specific period
+12.good fund num/total fund number of a individual security in specific period
+13.security type
+14.security country
+15.security industry sector 
